@@ -1,7 +1,3 @@
 # worldinstance
-minecraft logic 
+minecraft logic with mvc design pattern
 
-*Reminder refactor ugly code, to look into 3d build up.
-Look into game physics, Z-axis translation("jump")
-
-Takedown/Re-push 
